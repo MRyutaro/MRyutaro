@@ -34,4 +34,4 @@ MRyutaroです。
 
 # 今までに開発してきたもの
 ## カメラと両手のみを必要とする新たな入力システム
-![a](images/input-system.gif)
+![Input system using only camera and hands](images/input-system-animation.gif)
