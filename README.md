@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 MRyutaroです。
 
+![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
+![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
+![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryutarom128/contributions.svg)
+![My Qiita followers](https://qiita-badge.apiapi.app/s/ryutarom128/followers.svg)
+
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
 <!-- </p>
@@ -26,11 +31,6 @@ MRyutaroです。
 <p>
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
-
-![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
-![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
-![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryutarom128/contributions.svg)
-![My Qiita followers](https://qiita-badge.apiapi.app/s/ryutarom128/followers.svg)
 
 # 今までに開発してきたもの
 ## カメラと両手のみを必要とする新たな入力システム
