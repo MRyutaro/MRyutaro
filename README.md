@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
-![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)](http://qiita.com/ryutarom128)
-![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryutarom128/contributions.svg)](http://qiita.com/ryutarom128)
-![My Qiita followers](https://qiita-badge.apiapi.app/s/ryutarom128/followers.svg)](http://qiita.com/ryutarom128)
+![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)]
+![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryutarom128/contributions.svg)]
+![My Qiita followers](https://qiita-badge.apiapi.app/s/ryutarom128/followers.svg)]
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
