@@ -33,7 +33,7 @@ MRyutaroです。
 </p>
 
 # 開発物
-## カメラと両手のみを必要とする新たな入力システム
+### カメラと両手のみを必要とする新たな入力システム
 <img src="images/input-system-animation.gif" width="40%">
 
 # 記事
