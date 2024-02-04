@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 自己紹介
+MRyutaroです。
 
 # 今までに開発してきたもの
 ## カメラと両手のみを必要とする新たな入力システム
