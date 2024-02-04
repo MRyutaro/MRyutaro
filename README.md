@@ -32,8 +32,11 @@ MRyutaroです。
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
-# 今までに開発してきたもの
+# 開発物
 ## カメラと両手のみを必要とする新たな入力システム
 <img src="images/input-system-animation.gif" width="40%">
+
+# 記事
+
 
 
