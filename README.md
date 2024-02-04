@@ -21,7 +21,7 @@ MRyutaroです。
 ## カメラと両手のみを必要とする新たな入力システム
 ![input system using only camera and hands](/images/input-system.gif)
 
-![](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
+![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
 ![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
 ![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryutarom128/contributions.svg)
 ![My Qiita followers](https://qiita-badge.apiapi.app/s/ryutarom128/followers.svg)
