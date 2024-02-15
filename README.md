@@ -37,5 +37,7 @@ MRyutaroです。
 <img src="images/input-system-animation.gif" width="40%">
 
 # 記事
-- [【Next.js×Django×Docker】プライベートでの共同開発で初めてリーダーをしたけど7ヶ月かけても形にできず断念した話](https://qiita.com/ryutarom128/items/d0bbce4c0fd29eb56da3)
+| 投稿日 | タイトル |
+|:---|:---|
+| 2023年03月13日 | [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07) |
 
