@@ -32,11 +32,11 @@ MRyutaroです。
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
-# 開発物
+## 開発物一覧
 ### カメラと両手のみを必要とする新たな入力システム
 <img src="images/input-system-animation.gif" width="40%">
 
-# 記事
+## 記事一覧
 | 投稿日 | タイトル |
 |:---|:---|
 | 2023年02月26日 | [プログラミング初心者の状態から1年間実務経験を積んできて学んだこと](https://qiita.com/ryutarom128/items/be0ccca1048592284d07) |
