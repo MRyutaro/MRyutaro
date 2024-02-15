@@ -37,6 +37,5 @@ MRyutaroです。
 <img src="images/input-system-animation.gif" width="40%">
 
 # 記事
-[【Next.js×Django×Docker】プライベートでの共同開発で初めてリーダーをしたけど7ヶ月かけても形にできず断念した話](https://qiita.com/ryutarom128/items/d0bbce4c0fd29eb56da3)
-
+- [【Next.js×Django×Docker】プライベートでの共同開発で初めてリーダーをしたけど7ヶ月かけても形にできず断念した話](https://qiita.com/ryutarom128/items/d0bbce4c0fd29eb56da3)
 
