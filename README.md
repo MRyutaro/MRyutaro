@@ -37,7 +37,7 @@ MRyutaroです。
 <img src="images/input-system-animation.gif" width="40%">
 
 ### タスク管理×報酬管理×メモアプリ
-<img src="images/task-reward-memo-app-animation.gif" width="80%">
+<img src="images/task-reward-memo-app-animation.gif" width="100%">
 
 ## 記事一覧
 | 投稿日 | タイトル |
