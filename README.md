@@ -42,6 +42,7 @@ MRyutaroです。
 ## 記事一覧
 | 投稿日 | タイトル |
 |:---|:---|
+| 2024年02月26日 | [1年間実務経験を積んできて学んだこと（2年目）](https://qiita.com/ryutarom128/items/66d3e55bc3c7fc9704a6) |
 | 2023年03月13日 | [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07) |
 | 2023年03月09日 | [【初心者向け】OpenCV, NumPyを使ってSplatoonの解析をしてみる](https://qiita.com/ryutarom128/items/3cd338ea19fcb13ff013) |
 | 2023年02月26日 | [プログラミング初心者の状態から1年間実務経験を積んできて学んだこと](https://qiita.com/ryutarom128/items/be0ccca1048592284d07) |
