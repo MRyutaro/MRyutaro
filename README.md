@@ -1,20 +1,5 @@
 # Hi there 👋
 
-<!--
-**MRyutaro/MRyutaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 MRyutaroです。
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
@@ -32,7 +17,7 @@ MRyutaroです。
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
-## 開発物一覧
+## 個人開発
 ### カメラと両手のみを必要とする新たな入力システム
 <img src="images/input-system-animation.gif" width="40%">
 
