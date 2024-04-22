@@ -17,6 +17,10 @@ MRyutaroです。
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
+## プロジェクト
+### データ活用社会創成プラットフォームmdxを使った研究開発環境の整備
+JupyterNotebook, NextCloudを使える環境を整備した。
+
 ## 個人開発
 ### カメラと両手のみを必要とする新たな入力システム
 <img src="images/input-system-animation.gif" width="40%">
