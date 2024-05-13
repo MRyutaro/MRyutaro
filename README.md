@@ -19,7 +19,7 @@ MRyutaroです。
 
 ## プロジェクト
 ### [データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
-JupyterNotebook, NextCloudを使える環境を整備した。
+JupyterNotebook, NextCloud, GitLabを使えるオンプレミス環境を整備した。
 
 ## 個人開発
 ### カメラと両手のみを必要とする新たな入力システム
