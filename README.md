@@ -22,10 +22,10 @@ MRyutaroです。
 JupyterNotebook, NextCloud, GitLabを使えるオンプレミス環境を整備した。
 
 ## 個人開発
-### カメラと両手のみを必要とする新たな入力システム
+### ☆カメラと両手のみを必要とする新たな入力システム
 <img src="images/input-system-animation.gif" width="40%">
 
-### タスク管理×報酬管理×メモアプリ
+### ☆タスク管理×報酬管理×メモアプリ
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
 
 ## 記事一覧
