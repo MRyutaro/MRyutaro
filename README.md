@@ -19,7 +19,12 @@ MRyutaroです。
 
 ## プロジェクト
 ### ☆[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
-JupyterNotebook, NextCloud, GitLabを使えるオンプレミス環境を整備した。
+以下のサービスの整備をオンプレミス環境で行った。
+| サービス名 | 説明 |
+|:-----|:-----|
+| SoftEther VPN | VPN |
+| GROWI | 社内Wiki |
+| NextCloud | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
 ## 個人開発
 ### ☆カメラと両手のみを必要とする新たな入力システム
