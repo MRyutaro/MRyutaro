@@ -22,7 +22,7 @@ MRyutaroです。
 以下のサービスをmdxの仮想マシン上で利用できるようにした。
 | サービス名 | 説明 |
 |:-----|:-----|
-| [SoftEther VPN](https://ja.softether.org/) | オープンソースのVPNソフトウェア。以下のサービスを関係者だけが扱えるようにするために導入した。手順を[記事](https://qiita.com/ryutarom128/items/4bbf97ad7ff12572eb43)にした。 |
+| [SoftEther VPN](https://ja.softether.org/) | オープンソースのVPNソフトウェア。以下のサービスを関係者だけが扱えるようにするために導入した。環境構築の手順を[記事](https://qiita.com/ryutarom128/items/4bbf97ad7ff12572eb43)にまとめた。 |
 | [GROWI](https://growi.org/ja/) | 社内Wiki。サーバ情報などを共有するために導入した。 |
 | [NextCloud](https://nextcloud.com/) | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
