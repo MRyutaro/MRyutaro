@@ -34,6 +34,8 @@ MRyutaroです。
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
 
 ## 記事
+[【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07)は40000viewを達成（2024年5月時点）
+
 | 投稿日 | タイトル |
 |:---|:---|
 | 2024年02月26日 | [1年間実務経験を積んできて学んだこと（2年目）](https://qiita.com/ryutarom128/items/66d3e55bc3c7fc9704a6) |
