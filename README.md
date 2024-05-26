@@ -17,13 +17,8 @@ MRyutaroです。
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
-Qiitaアカウント
-
-https://qiita.com/ryutarom128
-
-ポートフォリオ
-
-https://www.resume.id/ryutarom
+- Qiitaアカウント: https://qiita.com/ryutarom128
+- ポートフォリオ: https://www.resume.id/ryutarom
 
 
 ## プロジェクト
