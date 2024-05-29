@@ -38,8 +38,10 @@ MRyutaroです。
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
 
 ## 記事
+### ニュース
 - [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07)は40000viewを達成（2024年5月時点）
 
+### 一覧
 | 投稿日 | タイトル |
 |:---|:---|
 | 2024年05月27日 | [【図解】SoftEther VPNを使ってLinux上でVPNサーバの環境構築をする](https://qiita.com/ryutarom128/items/4bbf97ad7ff12572eb43) |
