@@ -44,6 +44,9 @@ MRyutaroです。
 ### 一覧
 | 投稿日 | タイトル |
 |:---|:---|
+| 2024年06月02日 | [【KVM入門④】〜NFSを使って全ての仮想マシンでファイルを共有する〜](https://qiita.com/ryutarom128/items/3d66f1a5d61c3eb4e426) |
+| 2024年06月02日 | [【KVM入門③】〜DNSとhostsの設定を行う〜](https://qiita.com/ryutarom128/items/7dd3646beddb96dc647a) |
+| 2024年06月01日 | [【KVM入門②】〜複数の仮想マシンを作成して仮想マシン間で通信を行えるようにする〜](https://qiita.com/ryutarom128/items/2665a0f871d90f7f5358) |
 | 2024年05月27日 | [【図解】SoftEther VPNを使ってLinux上でVPNサーバの環境構築をする](https://qiita.com/ryutarom128/items/4bbf97ad7ff12572eb43) |
 | 2024年05月23日 | [【KVM入門①】〜KVMを使って仮想マシンを作成する〜](https://qiita.com/ryutarom128/items/a31cc4e296442cd0f9d6) |
 | 2024年05月22日 | [【FastAPI×React×Nginx×Docker】フロントエンドコンテナとAPIコンテナでやり取りができないときにしたこと](https://qiita.com/ryutarom128/items/25fb64d72b4bb16e6fbf) |
