@@ -44,6 +44,7 @@ MRyutaroです。
 ### 一覧
 | 投稿日 | タイトル |
 |:---|:---|
+| 2024年06月03日 | [【【KVM入門⑤】〜LDAPを使ってユーザ情報などを一元管理する〜](https://qiita.com/ryutarom128/items/b008ca44b7265164879c) |
 | 2024年06月02日 | [【KVM入門④】〜NFSを使って全ての仮想マシンでファイルを共有する〜](https://qiita.com/ryutarom128/items/3d66f1a5d61c3eb4e426) |
 | 2024年06月02日 | [【KVM入門③】〜DNSとhostsの設定を行う〜](https://qiita.com/ryutarom128/items/7dd3646beddb96dc647a) |
 | 2024年06月01日 | [【KVM入門②】〜複数の仮想マシンを作成して仮想マシン間で通信を行えるようにする〜](https://qiita.com/ryutarom128/items/2665a0f871d90f7f5358) |
