@@ -40,6 +40,7 @@ MRyutaroです。
 
 ### ☆タスク管理×報酬管理×メモアプリ
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
+
 - Python(Django)
 - CSS(Bootstrap)
 
