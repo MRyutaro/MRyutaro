@@ -30,6 +30,10 @@ MRyutaroです。
 | [GROWI](https://growi.org/ja/) | 社内Wiki。サーバ情報などを共有するために導入した。 |
 | [NextCloud](https://nextcloud.com/) | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
+## ☆[LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
+- React(React Flow)
+- Python(FastAPI)
+
 ## 個人開発
 ### ☆カメラと両手のみを必要とする新たな入力システム
 <img src="images/input-system-animation.gif" width="40%">
