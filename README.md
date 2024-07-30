@@ -46,6 +46,7 @@ MRyutaroです。
 
 ## 記事
 ### ニュース
+- [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07)は50000viewを達成（2024年7月時点）
 - [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07)は40000viewを達成（2024年5月時点）
 
 ### 一覧
