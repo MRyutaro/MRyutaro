@@ -29,8 +29,8 @@
 | [NextCloud](https://nextcloud.com/) | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
 ### ☆[LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
-- React(React Flow, Recoil, MUI)
-- Python(FastAPI)
+- React (React Flow, Recoil, MUI)
+- Python (FastAPI)
 
 ## 個人開発
 ### ☆[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
