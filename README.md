@@ -15,10 +15,6 @@
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
-- Qiitaアカウント: https://qiita.com/ryutarom128
-- ポートフォリオ: https://www.resume.id/ryutarom
-
-
 ## プロジェクト
 ### ☆[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
 以下のサービスをmdxの仮想マシン上で利用できるようにした。
