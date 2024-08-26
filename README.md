@@ -28,7 +28,7 @@
 - React (React Flow, Recoil, MUI)
 - Python (FastAPI)
 
-## 個人開発
+## 個人・共同開発
 ### ☆[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
 <img src="images/input-system-animation.gif" width="40%">
 
