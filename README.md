@@ -29,6 +29,8 @@
 - Python (FastAPI)
 
 ## 個人・共同開発
+### ◇[ゲームでキルしたタイミングを解析するツール](https://github.com/MRyutaro/splatoon3_highlight_collector)
+
 ### ☆[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
 <img src="images/input-system-animation.gif" width="40%">
 
