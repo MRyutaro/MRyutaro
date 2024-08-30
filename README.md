@@ -31,7 +31,7 @@
 ## 個人・共同開発
 ### ◇[キルしたタイミングを解析するツール](https://github.com/MRyutaro/splatoon3_highlight_collector)
 
-- React
+- React(Jotai, MUI)
 - Python(FastAPI, scikit-learn)
 
 ### ◇[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
