@@ -25,7 +25,7 @@
 | [NextCloud](https://nextcloud.com/) | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
 ### ◇[LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
-- React (React Flow, Recoil, MUI)
+- React (React Flow, Jotai, MUI)
 - Python (FastAPI)
 
 ## 個人・共同開発
