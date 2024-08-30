@@ -16,7 +16,7 @@
 </p>
 
 ## プロジェクト
-### ☆[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
+### ◇[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
 以下のサービスをmdxの仮想マシン上で利用できるようにした。
 | サービス名 | 説明 |
 |:-----|:-----|
@@ -24,17 +24,17 @@
 | [GROWI](https://growi.org/ja/) | 社内Wiki。サーバ情報などを共有するために導入した。 |
 | [NextCloud](https://nextcloud.com/) | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
-### ☆[LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
+### ◇[LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
 - React (React Flow, Recoil, MUI)
 - Python (FastAPI)
 
 ## 個人・共同開発
 ### ◇[ゲームでキルしたタイミングを解析するツール](https://github.com/MRyutaro/splatoon3_highlight_collector)
 
-### ☆[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
+### ◇[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
 <img src="images/input-system-animation.gif" width="40%">
 
-### ☆タスク管理×報酬管理×メモアプリ
+### ◇タスク管理×報酬管理×メモアプリ
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
 
 - Python(Django)
