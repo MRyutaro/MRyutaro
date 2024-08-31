@@ -29,7 +29,7 @@
 - Python (FastAPI)
 
 ## 個人・共同開発
-### ◇[キルしたタイミングを解析するツール](https://github.com/MRyutaro/splatoon3_highlight_collector)
+### ◇[キルした時刻を自動予測するゲーム解析用ツール](https://github.com/MRyutaro/splatoon3_highlight_collector)
 
 - React(Jotai, MUI)
 - Python(FastAPI, scikit-learn)
