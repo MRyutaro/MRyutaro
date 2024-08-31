@@ -37,7 +37,7 @@
 ### ◇[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
 <img src="images/input-system-animation.gif" width="40%">
 
-- Python(scikit-learn)
+- Python(matplotlib, mediapipe, numpy, opencv, pandas, scikit-learn)
 
 ### ◇タスク管理×報酬管理×メモアプリ
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
