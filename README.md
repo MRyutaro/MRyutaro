@@ -30,12 +30,13 @@
 
 ## 個人・共同開発
 ### ◇[キルした時刻を自動予測するゲーム解析用ツール](https://github.com/MRyutaro/splatoon3_highlight_collector)
+<img src="images/splatoon3_highlight_collector.gif" width="100%">
 
 - React(Jotai, MUI)
 - Python(FastAPI, scikit-learn)
 
 ### ◇[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
-<img src="images/input-system-animation.gif" width="40%">
+<img src="images/input-system-animation.gif" width="100%">
 
 - Python(matplotlib, mediapipe, numpy, opencv, pandas, scikit-learn)
 
