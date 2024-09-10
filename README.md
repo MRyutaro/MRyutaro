@@ -1,6 +1,6 @@
 # Hi there 👋
 
-| ページ内容 | ページリンク |
+| リンク先の説明 | リンク |
 |-|-|
 | 経歴などをまとめたポートフォリオ | https://www.resume.id/ryutarom |
 | 技術系ポートフォリオ | https://github.com/MRyutaro/MRyutaro |
