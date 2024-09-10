@@ -2,7 +2,7 @@
 
 | ページ内容 | ページリンク |
 |-|-|
-| 経歴など | https://www.resume.id/ryutarom |
+| 経歴などをまとめたポートフォリオ | https://www.resume.id/ryutarom |
 | 技術系ポートフォリオ | https://github.com/MRyutaro/MRyutaro |
 | テックブログ | https://qiita.com/ryutarom128 |
 
