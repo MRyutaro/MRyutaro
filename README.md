@@ -1,8 +1,10 @@
 # Hi there 👋
 
-### 今までの経歴などは[こちら](https://www.resume.id/ryutarom)！
-
-### テックブログは[こちら](https://qiita.com/ryutarom128)！
+| ページ内容 | ページリンク |
+|-|-|
+| 経歴など | https://www.resume.id/ryutarom |
+| 技術系ポートフォリオ | https://github.com/MRyutaro/MRyutaro |
+| テックブログ | https://qiita.com/ryutarom128 |
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
 ![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
