@@ -61,7 +61,6 @@
 
 ## 記事
 ### ニュース
-- [ハッカソン](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)に出場しました！（2024年9月14～15日）
 - [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07)は50000viewを達成（2024年7月）
 - [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07)は40000viewを達成（2024年5月）
 
