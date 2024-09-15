@@ -43,6 +43,7 @@
 - Python(FastAPI, scikit-learn)
 
 **記事**
+
 [【React×FastAPI×機械学習】キルした時刻を自動予測するゲーム解析用ツールを開発してみた](https://qiita.com/ryutarom128/items/2016c1567208ff38d461)
 
 ### ◇[カメラと両手のみを必要とする新たな入力システム（2024年1月）](https://github.com/MRyutaro/finger_input_system)
