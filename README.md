@@ -35,20 +35,26 @@
 - Python (FastAPI)
 
 ## 個人・共同開発
-### ◇[キルした時刻を自動予測するゲーム解析用ツール](https://github.com/MRyutaro/splatoon3_highlight_collector)
+### ◇[キルした時刻を自動予測するゲーム解析用ツール（2024年9月）](https://github.com/MRyutaro/splatoon3_highlight_collector)
 <img src="images/splatoon3_highlight_collector.gif" width="100%">
 
+**使用した技術**
 - React(Jotai, MUI)
 - Python(FastAPI, scikit-learn)
 
-### ◇[カメラと両手のみを必要とする新たな入力システム](https://github.com/MRyutaro/finger_input_system)
+**記事**
+[【React×FastAPI×機械学習】キルした時刻を自動予測するゲーム解析用ツールを開発してみた](https://qiita.com/ryutarom128/items/2016c1567208ff38d461)
+
+### ◇[カメラと両手のみを必要とする新たな入力システム（2024年1月）](https://github.com/MRyutaro/finger_input_system)
 <img src="images/input-system-animation.gif" width="100%">
 
+**使用した技術**
 - Python(matplotlib, mediapipe, numpy, opencv, pandas, scikit-learn)
 
-### ◇タスク管理×報酬管理×メモアプリ
+### ◇タスク管理×報酬管理×メモアプリ（2023年10月）
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
 
+**使用した技術**
 - Python(Django)
 - CSS(Bootstrap)
 
@@ -60,6 +66,7 @@
 ### 一覧
 | 投稿日 | タイトル |
 |:---|:---|
+| 2024年09月03日 | [【React×FastAPI×機械学習】キルした時刻を自動予測するゲーム解析用ツールを開発してみた](https://qiita.com/ryutarom128/items/2016c1567208ff38d461) |
 | 2024年06月03日 | [【【KVM入門⑤】〜LDAPを使ってユーザ情報などを一元管理する〜](https://qiita.com/ryutarom128/items/b008ca44b7265164879c) |
 | 2024年06月02日 | [【KVM入門④】〜NFSを使って全ての仮想マシンでファイルを共有する〜](https://qiita.com/ryutarom128/items/3d66f1a5d61c3eb4e426) |
 | 2024年06月02日 | [【KVM入門③】〜DNSとhostsの設定を行う〜](https://qiita.com/ryutarom128/items/7dd3646beddb96dc647a) |
