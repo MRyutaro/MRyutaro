@@ -35,8 +35,10 @@
 - Python (FastAPI)
 
 ## 出場
-### [技育CAMP2024 ハッカソン vol.14](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)
+### ◇[技育CAMP2024 ハッカソン vol.14](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)
 <img src="images/natsunoowari.png" width="100%">
+
+デモは[こちら](https://geek-camp-30a2f.web.app/)
 
 ## 個人・共同開発
 ### ◇[キルした時刻を自動予測するゲーム解析用ツール（2024年9月）](https://github.com/MRyutaro/splatoon3_highlight_collector)
