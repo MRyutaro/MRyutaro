@@ -66,13 +66,11 @@
 - CSS(Bootstrap)
 
 ## 記事
-### ニュース
-- [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07)は50000viewを達成（2024年7月）
-- [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07)は40000viewを達成（2024年5月）
-
-### 一覧
 | 投稿日 | タイトル |
 |:---|:---|
+| 2024年10月07日 | [【BlockNote入門】ReactでNotion風のメモアプリを作る方法](https://qiita.com/ryutarom128/items/ff451cd57771a52f6599)|
+| 2024年09月28日 | [FastAPIを使って認証をしてみた](https://qiita.com/ryutarom128/items/e257d45a67ffd85da31e) |
+| 2024年09月24日 | [【初ハッカソン】技育CAMP2024 ハッカソン vol.14に出場しました！](https://qiita.com/ryutarom128/items/1af6bb8dbc50a9d3a149) |
 | 2024年09月03日 | [【React×FastAPI×機械学習】キルした時刻を自動予測するゲーム解析用ツールを開発してみた](https://qiita.com/ryutarom128/items/2016c1567208ff38d461) |
 | 2024年06月03日 | [【【KVM入門⑤】〜LDAPを使ってユーザ情報などを一元管理する〜](https://qiita.com/ryutarom128/items/b008ca44b7265164879c) |
 | 2024年06月02日 | [【KVM入門④】〜NFSを使って全ての仮想マシンでファイルを共有する〜](https://qiita.com/ryutarom128/items/3d66f1a5d61c3eb4e426) |
