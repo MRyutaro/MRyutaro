@@ -39,6 +39,8 @@ Githubレポジトリは[こちら](https://github.com/MRyutaro/smago-map)
 
 デモは[こちら](https://geek-camp-30a2f.web.app/)
 
+Githubレポジトリは[こちら](https://github.com/yope7/Geekcamp)
+
 ## 個人・共同開発
 ### ◇[キルした時刻を自動予測するゲーム解析用ツール（2024年9月）](https://github.com/MRyutaro/splatoon3_highlight_collector)
 <img src="images/splatoon3_highlight_collector.gif" width="100%">
