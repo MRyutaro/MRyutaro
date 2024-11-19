@@ -29,6 +29,11 @@
 - Python (FastAPI)
 
 ## 出場
+### ◇[Engineer Guild Hackathon 2024](https://event.gaishishukatsu.com/hackathon_2024_november)
+<img src="images/smago-map.png" width="100%">
+
+Githubレポジトリは[こちら](https://github.com/MRyutaro/smago-map)
+
 ### ◇[技育CAMP2024 ハッカソン vol.14](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)
 <img src="images/natsunoowari.png" width="100%">
 
