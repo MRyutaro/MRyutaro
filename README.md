@@ -70,22 +70,23 @@
 ## 記事
 | 投稿日 | タイトル |
 |:---|:---|
-| 2024年10月07日 | [【BlockNote入門】ReactでNotion風のメモアプリを作る方法](https://qiita.com/ryutarom128/items/ff451cd57771a52f6599)|
-| 2024年09月28日 | [FastAPIを使って認証をしてみた](https://qiita.com/ryutarom128/items/e257d45a67ffd85da31e) |
-| 2024年09月24日 | [【初ハッカソン】技育CAMP2024 ハッカソン vol.14に出場しました！](https://qiita.com/ryutarom128/items/1af6bb8dbc50a9d3a149) |
-| 2024年09月03日 | [【React×FastAPI×機械学習】キルした時刻を自動予測するゲーム解析用ツールを開発してみた](https://qiita.com/ryutarom128/items/2016c1567208ff38d461) |
-| 2024年06月03日 | [【KVM入門⑤】〜LDAPを使ってユーザ情報などを一元管理する〜](https://qiita.com/ryutarom128/items/b008ca44b7265164879c) |
-| 2024年06月02日 | [【KVM入門④】〜NFSを使って全ての仮想マシンでファイルを共有する〜](https://qiita.com/ryutarom128/items/3d66f1a5d61c3eb4e426) |
-| 2024年06月02日 | [【KVM入門③】〜DNSとhostsの設定を行う〜](https://qiita.com/ryutarom128/items/7dd3646beddb96dc647a) |
-| 2024年06月01日 | [【KVM入門②】〜複数の仮想マシンを作成して仮想マシン間で通信を行えるようにする〜](https://qiita.com/ryutarom128/items/2665a0f871d90f7f5358) |
-| 2024年05月27日 | [【図解】SoftEther VPNを使ってLinux上でVPNサーバの環境構築をする](https://qiita.com/ryutarom128/items/4bbf97ad7ff12572eb43) |
-| 2024年05月23日 | [【KVM入門①】〜KVMを使って仮想マシンを作成する〜](https://qiita.com/ryutarom128/items/a31cc4e296442cd0f9d6) |
-| 2024年05月22日 | [【FastAPI×React×Nginx×Docker】フロントエンドコンテナとAPIコンテナでやり取りができないときにしたこと](https://qiita.com/ryutarom128/items/25fb64d72b4bb16e6fbf) |
-| 2024年05月22日 | [【KVM入門⓪】〜Linuxの基礎知識〜](https://qiita.com/ryutarom128/items/00ed01b0c9dd59716964) |
-| 2024年02月26日 | [1年間実務経験を積んできて学んだこと（2年目）](https://qiita.com/ryutarom128/items/66d3e55bc3c7fc9704a6) |
-| 2023年03月13日 | [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07) |
-| 2023年03月09日 | [【初心者向け】OpenCV, NumPyを使ってSplatoonの解析をしてみる](https://qiita.com/ryutarom128/items/3cd338ea19fcb13ff013) |
-| 2023年02月26日 | [プログラミング初心者の状態から1年間実務経験を積んできて学んだこと](https://qiita.com/ryutarom128/items/be0ccca1048592284d07) |
+| 2024/11/18 | [Engineer Guild Hackathon 2024に出場しました！](https://qiita.com/ryutarom128/items/f890cfeda6f515a2c4c8) |
+| 2024/10/07 | [【BlockNote入門】ReactでNotion風のメモアプリを作る方法](https://qiita.com/ryutarom128/items/ff451cd57771a52f6599)|
+| 2024/09/28 | [FastAPIを使って認証をしてみた](https://qiita.com/ryutarom128/items/e257d45a67ffd85da31e) |
+| 2024/09/24 | [【初ハッカソン】技育CAMP2024 ハッカソン vol.14に出場しました！](https://qiita.com/ryutarom128/items/1af6bb8dbc50a9d3a149) |
+| 2024/09/03 | [【React×FastAPI×機械学習】キルした時刻を自動予測するゲーム解析用ツールを開発してみた](https://qiita.com/ryutarom128/items/2016c1567208ff38d461) |
+| 2024/06/03 | [【KVM入門⑤】〜LDAPを使ってユーザ情報などを一元管理する〜](https://qiita.com/ryutarom128/items/b008ca44b7265164879c) |
+| 2024/06/02 | [【KVM入門④】〜NFSを使って全ての仮想マシンでファイルを共有する〜](https://qiita.com/ryutarom128/items/3d66f1a5d61c3eb4e426) |
+| 2024/06/02 | [【KVM入門③】〜DNSとhostsの設定を行う〜](https://qiita.com/ryutarom128/items/7dd3646beddb96dc647a) |
+| 2024/06/01 | [【KVM入門②】〜複数の仮想マシンを作成して仮想マシン間で通信を行えるようにする〜](https://qiita.com/ryutarom128/items/2665a0f871d90f7f5358) |
+| 2024/05/27 | [【図解】SoftEther VPNを使ってLinux上でVPNサーバの環境構築をする](https://qiita.com/ryutarom128/items/4bbf97ad7ff12572eb43) |
+| 2024/05/23 | [【KVM入門①】〜KVMを使って仮想マシンを作成する〜](https://qiita.com/ryutarom128/items/a31cc4e296442cd0f9d6) |
+| 2024/05/22 | [【FastAPI×React×Nginx×Docker】フロントエンドコンテナとAPIコンテナでやり取りができないときにしたこと](https://qiita.com/ryutarom128/items/25fb64d72b4bb16e6fbf) |
+| 2024/05/22 | [【KVM入門⓪】〜Linuxの基礎知識〜](https://qiita.com/ryutarom128/items/00ed01b0c9dd59716964) |
+| 2024/02/26 | [1/間実務経験を積んできて学んだこと（2/目）](https://qiita.com/ryutarom128/items/66d3e55bc3c7fc9704a6) |
+| 2023/03/13 | [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07) |
+| 2023/03/09 | [【初心者向け】OpenCV, NumPyを使ってSplatoonの解析をしてみる](https://qiita.com/ryutarom128/items/3cd338ea19fcb13ff013) |
+| 2023/02/26 | [プログラミング初心者の状態から1年間実務経験を積んできて学んだこと](https://qiita.com/ryutarom128/items/be0ccca1048592284d07) |
 
 
 
