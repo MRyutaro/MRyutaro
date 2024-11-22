@@ -47,6 +47,7 @@
 
 **使用した技術**
 - React
+- Firebase
 
 ## 個人・共同開発
 ### ◇[キルした時刻を自動予測するゲーム解析用ツール（2024年9月）](https://github.com/MRyutaro/splatoon3_highlight_collector)
