@@ -38,6 +38,15 @@
 - 記事は[こちら](https://qiita.com/ryutarom128/items/f890cfeda6f515a2c4c8)
 - 予選スライドは[こちら](https://speakerdeck.com/ryutarom/egh-timu16)、決勝スライドは[こちら](https://speakerdeck.com/ryutarom/engineer-guild-hackathon-2024-jue-sheng-timu16)
 
+**使用した技術**
+- Nginx
+- React
+- Python (FastAPI)
+- Google Mapss Platform
+- Docker
+- Cloudflare
+- Raspberry Pi
+
 ### ◇[技育CAMP2024 ハッカソン vol.14（2024年9月）](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)
 <img src="images/natsunoowari.png" width="100%">
 
@@ -56,21 +65,21 @@
 - 記事は[こちら](https://qiita.com/ryutarom128/items/2016c1567208ff38d461)
 
 **使用した技術**
-- React(Jotai, MUI)
-- Python(FastAPI, scikit-learn)
+- React (Jotai, MUI)
+- Python (FastAPI, scikit-learn)
 
 ### ◇[カメラと両手のみを必要とする新たな入力システム（2024年1月）](https://github.com/MRyutaro/finger_input_system)
 <img src="images/input-system-animation.gif" width="100%">
 
 **使用した技術**
-- Python(matplotlib, mediapipe, numpy, opencv, pandas, scikit-learn)
+- Python (matplotlib, mediapipe, numpy, opencv, pandas, scikit-learn)
 
 ### ◇タスク管理×報酬管理×メモアプリ（2023年10月）
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
 
 **使用した技術**
-- Python(Django)
-- CSS(Bootstrap)
+- Python (Django)
+- CSS (Bootstrap)
 
 ## 記事
 | 投稿日 | タイトル |
