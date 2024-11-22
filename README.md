@@ -42,7 +42,7 @@
 - Nginx
 - React
 - Python (FastAPI)
-- Google Mapss Platform
+- Google Maps Platform
 - Docker
 - Cloudflare
 - Raspberry Pi
