@@ -45,6 +45,9 @@
 - Githubレポジトリは[こちら](https://github.com/yope7/Geekcamp)
 - 記事は[こちら](https://qiita.com/ryutarom128/items/1af6bb8dbc50a9d3a149)
 
+**使用した技術**
+- React
+
 ## 個人・共同開発
 ### ◇[キルした時刻を自動予測するゲーム解析用ツール（2024年9月）](https://github.com/MRyutaro/splatoon3_highlight_collector)
 <img src="images/splatoon3_highlight_collector.gif" width="100%">
