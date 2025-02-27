@@ -1,4 +1,4 @@
-# 👋 Hi there
+## 👋 Hi there
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
 ![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
@@ -15,9 +15,9 @@
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
-## 経歴
+## 🎓 経歴
 
-## 
+## 🏢 インターン
 
 ## 🚀 プロジェクト
 ### ◇[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
