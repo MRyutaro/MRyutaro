@@ -51,6 +51,21 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Python (FastAPI, NumPy, NetworkXなど)
 
 ## 🏆 出場
+### ◇[技育CAMP2024 ハッカソン Vol.22（2025年2月）](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)
+
+<img src="images/snap-note-clip.gif" width="100%">
+
+優秀賞を頂きました！
+
+- Githubレポジトリは[こちら](https://github.com/MRyutaro/SnapNoteClip)
+- 記事は[こちら](https://qiita.com/ryutarom128/items/6570a20bea69119de9bd)
+- 発表用スライドは[こちら](https://speakerdeck.com/ryutarom/ji-yu-camp2024-vol-dot-22-snapnoteclip)
+
+**使用した技術**
+- JavaScript
+- HTML
+- CSS
+
 ### ◇[Engineer Guild Hackathon 2024（2024年11月）](https://event.gaishishukatsu.com/hackathon_2024_november)
 <img src="images/smago-map.png" width="100%">
 
@@ -58,7 +73,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 
 - Githubレポジトリは[こちら](https://github.com/MRyutaro/smago-map)
 - 記事は[こちら](https://qiita.com/ryutarom128/items/f890cfeda6f515a2c4c8)
-- 予選スライドは[こちら](https://speakerdeck.com/ryutarom/egh-timu16)、決勝スライドは[こちら](https://speakerdeck.com/ryutarom/engineer-guild-hackathon-2024-jue-sheng-timu16)
+- 予選発表用スライドは[こちら](https://speakerdeck.com/ryutarom/egh-timu16)、決勝発表用スライドは[こちら](https://speakerdeck.com/ryutarom/engineer-guild-hackathon-2024-jue-sheng-timu16)
 
 **使用した技術**
 - Nginx
