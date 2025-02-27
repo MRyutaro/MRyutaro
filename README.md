@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
 ![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
@@ -15,9 +15,13 @@
   <img alt="github graph" height="150px" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRyutaro&theme=dracula />
 </p>
 
-## プロジェクト
+## 経歴
+
+## 
+
+## 🚀 プロジェクト
 ### ◇[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
-以下のサービスをmdxの仮想マシン上で利用できるようにした。
+mdxの仮想マシン上で以下のソフトウェアの環境構築を行った。
 | サービス名 | 説明 |
 |:-----|:-----|
 | [SoftEther VPN](https://ja.softether.org/) | オープンソースのVPNソフトウェア。以下のサービスを関係者だけが扱えるようにするために導入した。環境構築の手順を[記事](https://qiita.com/ryutarom128/items/4bbf97ad7ff12572eb43)にまとめた。 |
@@ -25,10 +29,10 @@
 | [NextCloud](https://nextcloud.com/) | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
 ### ◇[LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
-- React (React Flow, Jotai, MUI)
-- Python (FastAPI)
+- React (React Flow, Jotai, MUIなど)
+- Python (FastAPI, NumPy, NetworkXなど)
 
-## 出場
+## 🏆 出場
 ### ◇[Engineer Guild Hackathon 2024（2024年11月）](https://event.gaishishukatsu.com/hackathon_2024_november)
 <img src="images/smago-map.png" width="100%">
 
@@ -58,7 +62,7 @@
 - React
 - Firebase
 
-## 個人・共同開発
+## 🧑‍💻 個人・共同開発
 ### ◇[キルした時刻を自動予測するゲーム解析用ツール（2024年9月）](https://github.com/MRyutaro/splatoon3_highlight_collector)
 <img src="images/splatoon3_highlight_collector.gif" width="100%">
 
@@ -81,9 +85,10 @@
 - Python (Django)
 - CSS (Bootstrap)
 
-## 記事
+## 📝 記事
 | 投稿日 | タイトル |
 |:---|:---|
+| 2025/02/18 | [【ハッカソン】技育CAMP2024 Vol.22で優秀賞を受賞しました！](https://qiita.com/ryutarom128/items/6570a20bea69119de9bd) |
 | 2024/11/18 | [Engineer Guild Hackathon 2024に出場しました！](https://qiita.com/ryutarom128/items/f890cfeda6f515a2c4c8) |
 | 2024/10/07 | [【BlockNote入門】ReactでNotion風のメモアプリを作る方法](https://qiita.com/ryutarom128/items/ff451cd57771a52f6599)|
 | 2024/09/28 | [FastAPIを使って認証をしてみた](https://qiita.com/ryutarom128/items/e257d45a67ffd85da31e) |
@@ -97,7 +102,7 @@
 | 2024/05/23 | [【KVM入門①】〜KVMを使って仮想マシンを作成する〜](https://qiita.com/ryutarom128/items/a31cc4e296442cd0f9d6) |
 | 2024/05/22 | [【FastAPI×React×Nginx×Docker】フロントエンドコンテナとAPIコンテナでやり取りができないときにしたこと](https://qiita.com/ryutarom128/items/25fb64d72b4bb16e6fbf) |
 | 2024/05/22 | [【KVM入門⓪】〜Linuxの基礎知識〜](https://qiita.com/ryutarom128/items/00ed01b0c9dd59716964) |
-| 2024/02/26 | [1/間実務経験を積んできて学んだこと（2/目）](https://qiita.com/ryutarom128/items/66d3e55bc3c7fc9704a6) |
+| 2024/02/26 | [1年間実務経験を積んできて学んだこと（2年目）](https://qiita.com/ryutarom128/items/66d3e55bc3c7fc9704a6) |
 | 2023/03/13 | [【Python×PDF】PyPDF2はもう古い！PythonでPDFを扱うときにはpypdfを使おう](https://qiita.com/ryutarom128/items/6e5d36efb136f9595f07) |
 | 2023/03/09 | [【初心者向け】OpenCV, NumPyを使ってSplatoonの解析をしてみる](https://qiita.com/ryutarom128/items/3cd338ea19fcb13ff013) |
 | 2023/02/26 | [プログラミング初心者の状態から1年間実務経験を積んできて学んだこと](https://qiita.com/ryutarom128/items/be0ccca1048592284d07) |
