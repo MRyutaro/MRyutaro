@@ -1,6 +1,5 @@
 ## 👋 Hi there
-最終更新日：2025/02/27
-Last updated: Feb 27, 2025
+最終更新日：2025/02/27 (Last updated: Feb 27, 2025)
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
 ![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
