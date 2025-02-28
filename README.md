@@ -51,7 +51,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Python (FastAPI, NumPy, NetworkXなど)
 
 ## 🏆 出場
-### ◇ [技育CAMP2024 ハッカソン Vol.22（2025年2月）](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)
+### ◇ [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
 
 <img src="images/snap-note-clip.gif" width="100%">
 
@@ -66,7 +66,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - HTML
 - CSS
 
-### ◇ [Engineer Guild Hackathon 2024（2024年11月）](https://event.gaishishukatsu.com/hackathon_2024_november)
+### ◇ [Engineer Guild Hackathon 2024](https://event.gaishishukatsu.com/hackathon_2024_november)（2024年11月）
 <img src="images/smago-map.png" width="100%">
 
 決勝に出場しました！
@@ -84,7 +84,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Cloudflare
 - Raspberry Pi
 
-### ◇ [技育CAMP2024 ハッカソン vol.14（2024年9月）](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)
+### ◇ [技育CAMP2024 ハッカソン vol.14](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)（2024年9月）
 <img src="images/natsunoowari.png" width="100%">
 
 - デモは[こちら](https://geek-camp-30a2f.web.app/)
