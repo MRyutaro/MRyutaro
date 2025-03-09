@@ -38,7 +38,7 @@
 | 2021年（令和3年）6月 | ITパスポート |
 
 ## 🚀 プロジェクト
-### ◇ [データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
+### 📌　[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
 mdxの仮想マシン上で以下のソフトウェアの環境構築を行った。
 | サービス名 | 説明 |
 |:-----|:-----|
@@ -46,12 +46,12 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 | [GROWI](https://growi.org/ja/) | 社内Wiki。サーバ情報などを共有するために導入した。 |
 | [NextCloud](https://nextcloud.com/) | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
-### ◇ [LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
+### 📌　[LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
 - React (React Flow, Jotai, MUIなど)
 - Python (FastAPI, NumPy, NetworkXなど)
 
 ## 🏆 出場
-### ◇ [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
+### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
 
 <img src="images/snap-note-clip.gif" width="100%">
 
@@ -66,7 +66,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - HTML
 - CSS
 
-### ◇ [Engineer Guild Hackathon 2024](https://event.gaishishukatsu.com/hackathon_2024_november)（2024年11月）
+### 📌 [Engineer Guild Hackathon 2024](https://event.gaishishukatsu.com/hackathon_2024_november)（2024年11月）
 <img src="images/smago-map.png" width="100%">
 
 決勝に出場しました！
@@ -84,7 +84,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Cloudflare
 - Raspberry Pi
 
-### ◇ [技育CAMP2024 ハッカソン vol.14](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)（2024年9月）
+### 📌 [技育CAMP2024 ハッカソン vol.14](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)（2024年9月）
 <img src="images/natsunoowari.png" width="100%">
 
 - デモは[こちら](https://geek-camp-30a2f.web.app/)
@@ -96,7 +96,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Firebase
 
 ## 🧑‍💻 個人・共同開発
-### ◇ CapLoupe（2025年2月）
+### 📌 CapLoupe（2025年2月）
 <img src="images/cap_loupe.gif" width="100%">
 
 - GitHubレポジトリは[こちら](https://github.com/MRyutaro/CapLoupe)
@@ -105,7 +105,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Python
 - Inno Setup
 
-### ◇ キルした時刻を自動予測するゲーム解析用ツール（2024年9月）
+### 📌 キルした時刻を自動予測するゲーム解析用ツール（2024年9月）
 <img src="images/splatoon3_highlight_collector.gif" width="100%">
 
 - 記事は[こちら](https://qiita.com/ryutarom128/items/2016c1567208ff38d461)
@@ -115,7 +115,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - React (Jotai, MUI)
 - Python (FastAPI, scikit-learn)
 
-### ◇ カメラと両手のみを必要とする新たな入力システム（2024年1月）
+### 📌 カメラと両手のみを必要とする新たな入力システム（2024年1月）
 <img src="images/input-system-animation.gif" width="100%">
 
 - GitHubレポジトリは[こちら](https://github.com/MRyutaro/finger_input_system)
@@ -123,7 +123,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 **使用した技術**
 - Python (matplotlib, mediapipe, numpy, opencv, pandas, scikit-learn)
 
-### ◇ タスク管理×報酬管理×メモアプリ（2023年10月）
+### 📌 タスク管理×報酬管理×メモアプリ（2023年10月）
 <img src="images/task-reward-memo-app-animation.gif" width="100%">
 
 **使用した技術**
