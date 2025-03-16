@@ -84,17 +84,6 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Cloudflare
 - Raspberry Pi
 
-### 📌 [技育CAMP2024 ハッカソン vol.14](https://talent.supporterz.jp/events/6f769c37-5709-4ddc-804e-4c4ff38d2112/)（2024年9月）
-<img src="images/natsunoowari.png" width="100%">
-
-- デモは[こちら](https://geek-camp-30a2f.web.app/)
-- GitHubレポジトリは[こちら](https://github.com/yope7/Geekcamp)
-- 記事は[こちら](https://qiita.com/ryutarom128/items/1af6bb8dbc50a9d3a149)
-
-**使用した技術**
-- React
-- Firebase
-
 ## 🧑‍💻 個人・共同開発
 ### 📌 CapLoupe（2025年2月）
 <img src="images/cap_loupe.gif" width="100%">
