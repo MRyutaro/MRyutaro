@@ -97,7 +97,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Python
 - Inno Setup
 
-### 📌 キルした時刻を自動予測するゲーム解析用ツール（2024年9月）
+### 📌 キル・デスした時刻を自動予測するゲーム解析用ツールspla3clip（2024年9月）
 <img src="images/splatoon3_highlight_collector.gif" width="100%">
 
 - 記事は[こちら](https://qiita.com/ryutarom128/items/2016c1567208ff38d461)
