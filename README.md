@@ -1,4 +1,4 @@
-最終更新日：2025/03/16
+最終更新日：2025/05/22
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=MRyutaro&color=blueviolet)
 ![My Qiita posts](https://qiita-badge.apiapi.app/s/ryutarom128/posts.svg)
@@ -27,7 +27,7 @@
 
 | 期間 | 名前 | 形態 |
 |:---|:---|:---|
-| 2023年（令和5年）4月～2025年（令和7年）2月現在 | [くろねこラボ合同会社](https://www.knlab.co.jp/) | フルリモート |
+| 2023年（令和5年）4月～2025年（令和7年）5月現在 | [くろねこラボ合同会社](https://www.knlab.co.jp/) | フルリモート |
 | 2022年（令和4年）4月～2023年（令和5年）3月 | [大阪ヒートクール株式会社](https://www.osaka-heat-cool.com/) | ハイブリッド |
 | 2021年（令和3年）4月～2022年（令和4年）3月 | [田中学習会](https://www.tanakagakushukai.com/) | オフィス |
 
@@ -38,6 +38,10 @@
 | 2024年（令和6年）4月 | TOEIC Listening & Reading Test 835点 |
 | 2022年（令和4年）3月 | 日商簿記検定試験3級 |
 | 2021年（令和3年）6月 | ITパスポート |
+
+## 研究
+
+- 松本琉大桜，速水智教，髙橋慧智，伊達 進，“低運用コストを実現するJupyterHub向けクラウドバースティング技術”，情報処理学会OS研究会，2025年5月．
 
 ## 🚀 プロジェクト
 ### 📌　[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
@@ -86,10 +90,6 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - Docker
 - Cloudflare
 - Raspberry Pi
-
-## 研究
-
-- 松本琉大桜，速水智教，髙橋慧智，伊達 進，“低運用コストを実現するJupyterHub向けクラウドバースティング技術”，情報処理学会OS研究会，2025年5月．
 
 ## 🧑‍💻 個人・共同開発
 ### 📌 CapLoupe（2025年2月）
