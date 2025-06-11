@@ -43,6 +43,12 @@
 
 - 松本琉大桜，速水智教，髙橋慧智，伊達 進，“低運用コストを実現するJupyterHub向けクラウドバースティング技術”，情報処理学会OS研究会，2025年5月．
 
+| レポジトリ | 説明 |
+|:---|:---|
+|  |  |
+|  |  |
+| [elasticnotebook_container](https://github.com/MRyutaro/elasticnotebook_container) | ElasticNotebookコンテナ |
+
 ## 🚀 プロジェクト
 ### 📌　[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
 mdxの仮想マシン上で以下のソフトウェアの環境構築を行った。
