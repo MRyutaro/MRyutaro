@@ -45,9 +45,9 @@
 
 | レポジトリ | 説明 |
 |:---|:---|
-|  |  |
-|  |  |
-| [elasticnotebook_container](https://github.com/MRyutaro/elasticnotebook_container) | ElasticNotebookコンテナ |
+| [elastic_notebook_slim](https://github.com/MRyutaro/elastic_notebook_slim) | ElasticNotebookのライブラリ版 |
+| [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | Jupyter Kernelを拡張してElasticNotebookを自動的に使えるようにしたもの |
+| [elasticnotebook_container](https://github.com/MRyutaro/elasticnotebook_container) | ElasticNotebookをコンテナ内で動作できるようにしたもの |
 
 ## 🚀 プロジェクト
 ### 📌　[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
