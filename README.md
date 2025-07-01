@@ -44,7 +44,7 @@
 | [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | ElasticKernel: An IPython Kernel that automatically saves and restores Jupyter Notebook execution states. |
 
 ## 🚀 プロジェクト
-### 📌　[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
+### 📌 [データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
 mdxの仮想マシン上で以下のソフトウェアの環境構築を行った。
 
 | サービス名 | 説明 |
@@ -53,9 +53,13 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 | [GROWI](https://growi.org/ja/) | 社内Wiki。サーバ情報などを共有するために導入した。 |
 | [NextCloud](https://nextcloud.com/) | ファイル共有システム。Googleドライブの自社サーバ版のようなもの。 |
 
-### 📌　[LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
+### 📌 [LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
 - React (React Flow, Jotai, MUIなど)
 - Python (FastAPI, NumPy, NetworkXなど)
+
+### AIを用いた学術情報レビュー・執筆支援AIツールの開発
+- Python (Flaskなど)
+- AWS (ECS, ECR, RDSなど)
 
 ## 🏆 出場
 ### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
