@@ -1,4 +1,4 @@
-最終更新日：2025/06/11
+最終更新日：2025/07/02
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
@@ -22,8 +22,8 @@
 
 | 期間 | 名前 | 形態 |
 |:---|:---|:---|
-| 2025年（令和7年）4月～2025年（令和7年）6月現在 | [プラネットファーマソリューションズ株式会社](https://www.pp-solutions.jp/) | フルリモート |
-| 2023年（令和5年）4月～2025年（令和7年）6月現在 | [くろねこラボ合同会社](https://www.knlab.co.jp/) | フルリモート |
+| 2025年（令和7年）4月～2025年（令和7年）7月現在 | [プラネットファーマソリューションズ株式会社](https://www.pp-solutions.jp/) | フルリモート |
+| 2023年（令和5年）4月～2025年（令和7年）7月現在 | [くろねこラボ合同会社](https://www.knlab.co.jp/) | フルリモート |
 | 2022年（令和4年）4月～2023年（令和5年）3月 | [大阪ヒートクール株式会社](https://www.osaka-heat-cool.com/) | ハイブリッド |
 | 2021年（令和3年）4月～2022年（令和4年）3月 | [田中学習会](https://www.tanakagakushukai.com/) | オフィス |
 
@@ -41,9 +41,7 @@
 
 | レポジトリ | 説明 |
 |:---|:---|
-| [elastic_notebook_slim](https://github.com/MRyutaro/elastic_notebook_slim) | ElasticNotebookのライブラリ版 |
-| [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | Jupyter Kernelを拡張してElasticNotebookを自動的に使えるようにしたもの |
-| [elasticnotebook_container](https://github.com/MRyutaro/elasticnotebook_container) | ElasticNotebookをコンテナ内で動作できるようにしたもの |
+| [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | ElasticKernel: An IPython Kernel that automatically saves and restores Jupyter Notebook execution states. |
 
 ## 🚀 プロジェクト
 ### 📌　[データ活用社会創成プラットフォームmdx](https://mdx.jp/about/mdx)を使った研究開発環境の整備
