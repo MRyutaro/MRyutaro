@@ -57,7 +57,7 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 - React (React Flow, Jotai, MUIなど)
 - Python (FastAPI, NumPy, NetworkXなど)
 
-### 📌 学術情報レビュー・執筆支援AIツールの開発
+### 📌 学術情報レビュー・執筆支援AIツール[SophiaPanorama](https://sophiapanorama.pp-solutions.jp/)の開発
 - Python (Flaskなど)
 - AWS (ECS, ECR, RDSなど)
 
