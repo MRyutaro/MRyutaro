@@ -132,4 +132,4 @@ mdxの仮想マシン上で以下のソフトウェアの環境構築を行っ�
 
 ## 📝 記事
 
-[Qiita](https://qiita.com/ryutarom128)に書いています。
+[![Qiita](https://img.shields.io/badge/Qiita-@ryutarom128-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/ryutarom128)
