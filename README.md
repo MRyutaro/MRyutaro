@@ -45,7 +45,7 @@
 | [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | ElasticKernel: An IPython Kernel that automatically saves and restores Jupyter Notebook execution states. |
 
 ## 🚀 プロジェクト
-### 📌 [LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールの開発
+### 📌 [LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールのプロトタイプ開発
 - React (React Flow, Jotai, MUIなど)
 - Python (FastAPI, NumPy, NetworkXなど)
 
