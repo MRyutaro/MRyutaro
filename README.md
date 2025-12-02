@@ -1,4 +1,4 @@
-最終更新日：2025/10/09
+最終更新日：2025/12/02
 
 <p align="left" style="display: flex; gap: 20px;">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
@@ -52,6 +52,9 @@
 - AWS (ECS, ECR, RDSなど)
 
 ## 🏆 出場
+### 📌 [2025 APAC HPC-AI Competition](https://www.hpcadvisorycouncil.com/events/2025/APAC-AI-HPC/)(2025年3月~10月)
+6人のチームで参加し、Excellent HPC Performance賞を受賞しました！
+
 ### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
 
 <img src="images/snap-note-clip.gif" width="100%">
