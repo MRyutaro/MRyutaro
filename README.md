@@ -1,4 +1,4 @@
-最終更新日：2025/12/02
+最終更新日：2025/12/12
 
 <!-- <p align="left" style="display: flex; gap: 20px;">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
@@ -54,6 +54,11 @@
 ## 🏆 出場
 ### 📌 [2025 APAC HPC-AI Competition](https://www.hpcadvisorycouncil.com/events/2025/APAC-AI-HPC/)（2025年3月~10月）
 6人のチームで参加し、Excellent HPC Performance賞を受賞しました！
+
+プレスリリース
+- [学生向け計算科学分野国際コンペティションで上位入賞](https://www.riken.jp/pr/news/2025/20251209_1/index.html)
+- [学生向け計算科学分野国際コンペティションで上位入賞](https://www.ist.osaka-u.ac.jp/japanese/news/newsDetailNews.php?id=520)
+- [2025 APAC HPC-AI Competitionにて本研究室学生チームが HPC部門Excellent HPC Performance 賞を受賞](https://www.ais.cmc.osaka-u.ac.jp/date/2025-apachpcai-award/)
 
 ### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
 
