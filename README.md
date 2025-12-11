@@ -56,9 +56,9 @@
 6人のチームで参加し、Excellent HPC Performance賞を受賞しました！
 
 プレスリリース
-- [学生向け計算科学分野国際コンペティションで上位入賞](https://www.riken.jp/pr/news/2025/20251209_1/index.html)
-- [学生向け計算科学分野国際コンペティションで上位入賞](https://www.ist.osaka-u.ac.jp/japanese/news/newsDetailNews.php?id=520)
-- [2025 APAC HPC-AI Competitionにて本研究室学生チームが HPC部門Excellent HPC Performance 賞を受賞](https://www.ais.cmc.osaka-u.ac.jp/date/2025-apachpcai-award/)
+- 理研: [学生向け計算科学分野国際コンペティションで上位入賞](https://www.riken.jp/pr/news/2025/20251209_1/index.html)
+- 大阪大学情報科学研究科: [学生向け計算科学分野国際コンペティションで上位入賞](https://www.ist.osaka-u.ac.jp/japanese/news/newsDetailNews.php?id=520)
+- 伊達研究室: [2025 APAC HPC-AI Competitionにて本研究室学生チームが HPC部門Excellent HPC Performance 賞を受賞](https://www.ais.cmc.osaka-u.ac.jp/date/2025-apachpcai-award/)
 
 ### 📌 [技育CAMP2024 ハッカソン Vol.22](https://talent.supporterz.jp/events/21ff01e0-4e23-4758-9e08-b50c29c51860/)（2025年2月）
 
