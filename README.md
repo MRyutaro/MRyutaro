@@ -20,11 +20,11 @@
 
 | 期間 | 名前 |
 |:---|:---|
-| 2021年（令和3年）4月～2022年（令和4年）3月 | [田中学習会](https://www.tanakagakushukai.com/) |
-| 2022年（令和4年）4月～2023年（令和5年）3月 | [大阪ヒートクール株式会社](https://www.osaka-heat-cool.com/) |
-| 2023年（令和5年）4月～2025年（令和7年）3月 | [くろねこラボ合同会社](https://www.knlab.co.jp/) |
-| 2025年（令和7年）8月19日〜2025年（令和7年）8月29日 | [フリー株式会社](https://corp.freee.co.jp/) |
-| 2025年（令和7年）4月～2025年（令和7年）10月現在 | [プラネットファーマソリューションズ株式会社](https://www.pp-solutions.jp/) |
+| 2021年（令和3年）4月～2022年（令和4年）3月 | 塾講師バイト |
+| 2022年（令和4年）4月～2023年（令和5年）3月 | O社長期インターン |
+| 2023年（令和5年）4月～2025年（令和7年）3月 | K社長期インターン |
+| 2025年（令和7年）8月19日〜2025年（令和7年）8月29日 | F社サマーインターン |
+| 2025年（令和7年）4月～2025年（令和7年）10月現在 | P社長期インターン |
 
 ## 📜 資格
 
@@ -42,14 +42,6 @@
 |:---|:---|
 | [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | ElasticKernel: An IPython Kernel that automatically saves and restores Jupyter Notebook execution states. |
 
-## 🚀 プロジェクト
-### 📌 [LCA](https://tenbou.nies.go.jp/science/description/detail.php?id=57)分析用のシミュレーションツールのプロトタイプ開発
-- React (React Flow, Jotai, MUIなど)
-- Python (FastAPI, NumPy, NetworkXなど)
-
-### 📌 学術情報レビュー・執筆支援AIツール[SophiaPanorama](https://sophiapanorama.pp-solutions.jp/)の開発
-- Python (Flaskなど)
-- AWS (ECS, ECR, RDSなど)
 
 ## 🏆 出場
 ### 📌 [2025 APAC HPC-AI Competition](https://www.hpcadvisorycouncil.com/events/2025/APAC-AI-HPC/)（2025年3月~10月）
