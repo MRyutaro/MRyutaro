@@ -1,4 +1,4 @@
-最終更新日：2025/12/12
+最終更新日：2026/03/19
 
 <!-- <p align="left" style="display: flex; gap: 20px;">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
@@ -86,6 +86,14 @@
 - Raspberry Pi
 
 ## 🧑‍💻 個人・共同開発
+###  📌 マップ家計簿（2026年3月）
+<img src="images/cap_loupe.gif" width="100%">
+- [Apple Storeへのリンク](https://apps.apple.com/us/app/%E3%83%9E%E3%83%83%E3%83%97%E5%AE%B6%E8%A8%88%E7%B0%BF/id6760119102)
+
+**使用した技術**
+- Swift
+- Codex (GPT 5.4)
+
 ### 📌 CapLoupe（2025年2月）
 <img src="images/cap_loupe.gif" width="100%">
 
