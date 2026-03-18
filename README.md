@@ -87,7 +87,7 @@
 
 ## 🧑‍💻 個人・共同開発
 ###  📌 マップ家計簿（2026年3月）
-<img src="images/cap_loupe.gif" width="100%">
+<img src="images/kakebo_with_map.png" width="50%">
 
 - Apple Storeのリンクは[こちら](https://apps.apple.com/us/app/%E3%83%9E%E3%83%83%E3%83%97%E5%AE%B6%E8%A8%88%E7%B0%BF/id6760119102)
 
