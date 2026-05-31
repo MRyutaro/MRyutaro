@@ -1,4 +1,4 @@
-最終更新日：2026/03/19
+最終更新日：2026/06/01
 
 <!-- <p align="left" style="display: flex; gap: 20px;">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRyutaro&layout=compact&count_private=true&show_icons=true&theme=onedark" />
@@ -37,11 +37,11 @@
 ## 🧪 研究
 
 - 松本琉大桜，速水智教，髙橋慧智，伊達 進，“低運用コストを実現するJupyterHub向けクラウドバースティング技術”，情報処理学会OS研究会，2025年5月．
+- Matsumoto, R.; Taniguchi, K.; Hayami, T.; Takahashi, K. and Date, S. (2026). ElasticHub: A Cost-Efficient JupyterHub Platform via Automated Scaling with Kubernetes on Hybrid Cloud.  In Proceedings of the 16th International Conference on Cloud Computing and Services Science, ISBN 978-989-758-829-7, ISSN 2184-5042, pages 261-268.  DOI: 10.5220/0014840200004039
 
 | レポジトリ | 説明 |
 |:---|:---|
 | [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | ElasticKernel: An IPython Kernel that automatically saves and restores Jupyter Notebook execution states. |
-
 
 ## 🏆 出場
 ### 📌 [2025 APAC HPC-AI Competition](https://www.hpcadvisorycouncil.com/events/2025/APAC-AI-HPC/)（2025年3月~10月）
