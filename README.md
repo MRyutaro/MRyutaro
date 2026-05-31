@@ -41,7 +41,8 @@
 
 | レポジトリ | 説明 |
 |:---|:---|
-| [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | ElasticKernel: An IPython Kernel that automatically saves and restores Jupyter Notebook execution states. |
+| [ElasticKernel](https://github.com/MRyutaro/ElasticKernel.git) | ElasticKernel: An IPython Kernel that automatically saves and restores Jupyter Notebook execution states |
+| [ElasticHub](https://github.com/MRyutaro/ElasticHub.git) | ElasticHub: A Cost-efficient JupyterHub Platform via Automated Scaling with Kubernetes on Hybrid Cloud |
 
 ## 🏆 出場
 ### 📌 [2025 APAC HPC-AI Competition](https://www.hpcadvisorycouncil.com/events/2025/APAC-AI-HPC/)（2025年3月~10月）
