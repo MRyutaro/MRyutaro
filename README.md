@@ -94,7 +94,7 @@ https://mryutaro.github.io/reference-management/
 
 ## 🧑‍💻 個人・共同開発
 ### 📌 kuronuri: PDFの指定した箇所を黒塗りするWebアプリ （2026年3月）
-<img src="images/kuronuri.png" width="30%">
+<img src="images/kuronuri.png" width="100%">
 
 ### 📌 マップ家計簿（2026年3月）
 <img src="images/kakebo_with_map.png" width="30%">
