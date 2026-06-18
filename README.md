@@ -92,9 +92,10 @@ https://mryutaro.github.io/reference-management/
 - Cloudflare
 - Raspberry Pi
 
-## 🧑‍💻 個人・共同開発
-### 📌 iOSアプリ一覧
+## 🧑‍💻 個人・共同開発（iOSアプリ）
 [このページ](https://mryutaro.github.io/ios-apps/)を参照してください。
+
+## 🧑‍💻 個人・共同開発（iOSアプリ以外）
 
 ### 📌 kuronuri: PDFの指定した箇所を黒塗りするWebアプリ （2026年3月）
 <img src="images/kuronuri.png" width="100%">
