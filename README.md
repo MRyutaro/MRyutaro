@@ -94,7 +94,7 @@ https://mryutaro.github.io/reference-management/
 
 ## 🧑‍💻 個人・共同開発
 ### 📌 iOSアプリ一覧
-https://mryutaro.github.io/ios-apps/
+[このページ](https://mryutaro.github.io/ios-apps/)を参照してください。
 
 ### 📌 kuronuri: PDFの指定した箇所を黒塗りするWebアプリ （2026年3月）
 <img src="images/kuronuri.png" width="100%">
