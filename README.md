@@ -93,17 +93,11 @@ https://mryutaro.github.io/reference-management/
 - Raspberry Pi
 
 ## 🧑‍💻 個人・共同開発
+### 📌 iOSアプリ一覧
+https://mryutaro.github.io/ios-apps/
+
 ### 📌 kuronuri: PDFの指定した箇所を黒塗りするWebアプリ （2026年3月）
 <img src="images/kuronuri.png" width="100%">
-
-### 📌 マップ家計簿（2026年3月）
-<img src="images/kakebo_with_map.png" width="30%">
-
-- Apple Storeのリンクは[こちら](https://apps.apple.com/us/app/%E3%83%9E%E3%83%83%E3%83%97%E5%AE%B6%E8%A8%88%E7%B0%BF/id6760119102)
-
-**使用した技術**
-- Swift
-- Codex (GPT 5.4)
 
 ### 📌 CapLoupe（2025年2月）
 <img src="images/cap_loupe.gif" width="100%">
